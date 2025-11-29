@@ -10,5 +10,5 @@ Ikhimiukor OO, Zac Soligno NI, Akintayo IJ, Marcovici MM, Souza SSR, Workman A, 
 
 This repository provides a **fully reproducible bioinformatics pipeline** replicating the analyses from Ikhimiukor et al. (2024), who investigated how **clonal background** and **plasmid transmission routes** shape antimicrobial resistance (AMR) patterns in *Klebsiella pneumoniae* bloodstream isolates.
 
-The pipeline integrates short- and long-read data processing, hybrid assembly, plasmid identification, pangenome reconstruction, phylogenetics, and AMR gene profiling.  
+The pipeline integrates short- and long-read data processing, assembly, plasmid identification, pangenome reconstruction, phylogenetics, and AMR gene profiling.  
 All steps follow the logic and methods described in the original paper, with additional annotations to promote transparency and reproducibility.
