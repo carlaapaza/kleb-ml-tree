@@ -12,12 +12,3 @@ This repository provides a **fully reproducible bioinformatics pipeline** replic
 
 The pipeline integrates short- and long-read data processing, hybrid assembly, plasmid identification, pangenome reconstruction, phylogenetics, and AMR gene profiling.  
 All steps follow the logic and methods described in the original paper, with additional annotations to promote transparency and reproducibility.
-
----
-
-## Repository Structure
-├── data/                # Raw data or links to download them
-├── envs/                # Conda environment files (YAML)
-├── scripts/             # Bash, Python, and R scripts
-├── results/             # Output folders (assemblies, trees, figures…)
-└── docs/                # Notes, methods, diagrams
